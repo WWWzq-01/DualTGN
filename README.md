@@ -1,3 +1,3 @@
-# DualTGL
+# DualTGN
 
-The code of *DualTGL: Accelerating Out-of-Core Temporal GNN Training via Supervision–State Decoupling*.
+The code of *DualTGN: Accelerating Out-of-Core Temporal GNN Training via Supervision–State Decoupling*.
